@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>蓝莓的小破站</title>
+  <icon>https://tding.top/icon.png</icon>
+  
+  <link href="https://tding.top/atom.xml" rel="self"/>
+  
+  <link href="https://tding.top/"/>
+  <updated>2022-09-24T11:04:09.512Z</updated>
+  <id>https://tding.top/</id>
+  
+  <author>
+    <name>蓝莓果粒橙</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://tding.top/archives/undefined.html"/>
+    <id>https://tding.top/archives/undefined.html</id>
+    <published>2022-10-19T02:58:42.455Z</published>
+    <updated>2022-09-24T11:04:09.512Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
